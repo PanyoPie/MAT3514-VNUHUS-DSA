@@ -1,4 +1,4 @@
-package vn.io.tunaa.dsa.week3.linked_list.ex1__implementation;
+package vn.io.tunaa.dsa.week3.linked_list.ex1__implementations;
 
 public class SimpleLinkedList<T> {
 
