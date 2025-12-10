@@ -1,9 +1,0 @@
-package vn.io.tunaa.dsa.week7_revision._2_1.ex2__dictionary;
-
-public interface ListInterface<T> {
-
-    public void add(T data);
-    public T get(int i);
-    public int size();
-    public boolean isEmpty();
-}

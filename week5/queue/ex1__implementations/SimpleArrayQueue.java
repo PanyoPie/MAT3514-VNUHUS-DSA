@@ -13,7 +13,7 @@ public class SimpleArrayQueue<T> implements SimpleQueue<T> {
     }
 
     /**
-     * Thêm một phần tử vào cuối hàng đợi.
+     * Thêm một phần tử vào  hàng đợi.
      * @param item phần tử cần thêm
      */
     @Override
